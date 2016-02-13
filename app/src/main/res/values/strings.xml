@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BackgroundBLE</string>
+    <string name="advertise_uuid">54fb66f3-df2b-42bf-a92c-63c87372c089</string>
+</resources>
